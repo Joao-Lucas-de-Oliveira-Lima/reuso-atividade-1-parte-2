@@ -1,7 +1,0 @@
-[package]
-name = "atividade"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-restaurant = { git = "https://github.com/Joao-Lucas-de-Oliveira-Lima/reuso-atividade-1-parte-1.git" }
